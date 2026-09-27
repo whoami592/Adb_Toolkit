@@ -63,7 +63,7 @@ chmod +x install.sh
 Then run:
 
 ```bash
-sabaz-adb
+Bash adbtoolkit.sh
 ```
 
 ## Android preparation
